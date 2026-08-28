@@ -154,8 +154,7 @@ terms used in this document.
   action. After that time, such notes should be destroyed.
 
 * A secure storage platform for documents that will be held for a longer
-  term will be agreed by the Ombudsteam and reviewed with the assistance of
-  security experts.
+  term will be provided by the LLC for the Ombudsteam.
 
 * Reports prepared after formal investigations must be kept indefinitely on
   the secure storage platform.
