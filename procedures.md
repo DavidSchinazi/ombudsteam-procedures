@@ -45,9 +45,11 @@ terms used in this document.
   category, which the Ombudsteam will discuss among themselves when making a
   determination.
 
-* If the LO determines that the case is better handled by other
-  procedures and does not need further Ombudsteam involvement, the case
-  shall be closed.
+* If the LO determines that the case is better handled by other procedures
+  and does not need further Ombudsteam involvement, the case shall be
+  closed. For example, most reports of incidents on public mailing lists
+  will be referred to the administrators of those lists, because they can
+  act publicly and more rapidly than the Ombudsteam.
 
 * If the Subject (or the Reporter in the absence of an individual Subject)
   requests the LO to assist with any sort of informal discussion with the
