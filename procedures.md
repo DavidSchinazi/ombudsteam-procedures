@@ -28,6 +28,12 @@ terms used in this document.
   shall first discuss with the Reporter the general nature of the potential
   harassment.
 
+* The LO will first determine whether the report is related to the IETF. If
+  it isn't, the LO will explain this to the reporter and will not open a
+  case. Since the Ombudsteam email alias receives a considerable amount of
+  spam, emails that are not related to harassment in the context of an IETF
+  activity might not be responded to.
+
 * If the LO is concerned about any threat of imminent harm, or that there is
   a likelihood that the investigation may be compromised, the LO may choose
   to implement some preliminary interim actions at this time including
