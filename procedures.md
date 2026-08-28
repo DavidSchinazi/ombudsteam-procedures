@@ -9,53 +9,6 @@ See [RFC 7776, Section
 2](https://www.rfc-editor.org/rfc/rfc7776.html#section-2) for definitions of
 terms used in this document.
 
-## Documentation
-
-* Rough notes may be taken by an Ombudsperson during the course of an
-  investigation in order to help prepare a report for the investigation and
-  to review prior to review of any disputes (if any) with an Ombudsteam
-  decision. Such notes may be made on paper or the Ombudsperson’s personal
-  devices, but must only be retained until the completion of the
-  investigation, plus a few weeks in addition to allow time for any dispute
-  resolution. After that time, such notes should be destroyed.
-
-* A secure storage platform for documents that will be held for a longer
-  term will be agreed by the Ombudsteam and reviewed with the assistance of
-  security experts.
-
-* Reports prepared after formal investigations must be kept indefinitely on
-  the secure storage platform.
-
-* A spreadsheet will be kept on the secure storage platform for all contacts
-  with the Ombudsteam. Information in the spreadsheet is mostly for keeping
-  historical statistics regarding reports. It shall minimize anything that
-  could potentially identify the parties to a report, but may contain
-  information sufficient for an Ombudsperson to recall particulars in case a
-  new report comes in regarding the same parties, given that the
-  Ombudsperson’s personal notes are not retained as per the requirements
-  above.
-
-## Communications
-
-* Intra-team communication regarding solely administrative matters may be
-  done by email.
-
-* Intra-team communications regarding a report of harassment will either be
-  via Signal,via encrypted voice applications or telephone, or in person.
-
-* All communications with parties to a report (with the exception of initial
-  replies to reports and other purely administrative messages that are sent
-  via email) will use a secure mechanism to the extent feasible. Signal is
-  preferred for all communications, but other encrypted communications
-  (e.g., encrypted email, WhatsApp) are preferred for written communication,
-  and encrypted voice applications or telephone may also be used for voice
-  communication. In case parties refuse to engage over a particular
-  communication channel, the Ombudsteam will endeavor to accommodate to a
-  reasonable extent.
-
-* If an Ombudsperson is recused from any particular case, they will not be
-  part of any discussion of that case with the rest of the Ombudsteam.
-
 ## Intake
 
 * If a report is received by the Ombudsteam, the Ombudsteam shall confer and
@@ -175,6 +128,53 @@ terms used in this document.
 * A note should be made in the Ombudsteam spreadsheet (see Documentation).
 
 * Reports from formal investigations shall be kept in secure storage.
+
+## Documentation
+
+* Rough notes may be taken by an Ombudsperson during the course of an
+  investigation in order to help prepare a report for the investigation and
+  to review prior to review of any disputes (if any) with an Ombudsteam
+  decision. Such notes may be made on paper or the Ombudsperson’s personal
+  devices, but must only be retained until the completion of the
+  investigation, plus a few weeks in addition to allow time for any dispute
+  resolution. After that time, such notes should be destroyed.
+
+* A secure storage platform for documents that will be held for a longer
+  term will be agreed by the Ombudsteam and reviewed with the assistance of
+  security experts.
+
+* Reports prepared after formal investigations must be kept indefinitely on
+  the secure storage platform.
+
+* A spreadsheet will be kept on the secure storage platform for all contacts
+  with the Ombudsteam. Information in the spreadsheet is mostly for keeping
+  historical statistics regarding reports. It shall minimize anything that
+  could potentially identify the parties to a report, but may contain
+  information sufficient for an Ombudsperson to recall particulars in case a
+  new report comes in regarding the same parties, given that the
+  Ombudsperson’s personal notes are not retained as per the requirements
+  above.
+
+## Communications
+
+* Intra-team communication regarding solely administrative matters may be
+  done by email.
+
+* Intra-team communications regarding a report of harassment will either be
+  via Signal,via encrypted voice applications or telephone, or in person.
+
+* All communications with parties to a report (with the exception of initial
+  replies to reports and other purely administrative messages that are sent
+  via email) will use a secure mechanism to the extent feasible. Signal is
+  preferred for all communications, but other encrypted communications
+  (e.g., encrypted email, WhatsApp) are preferred for written communication,
+  and encrypted voice applications or telephone may also be used for voice
+  communication. In case parties refuse to engage over a particular
+  communication channel, the Ombudsteam will endeavor to accommodate to a
+  reasonable extent.
+
+* If an Ombudsperson is recused from any particular case, they will not be
+  part of any discussion of that case with the rest of the Ombudsteam.
 
 ## External Reporting
 
