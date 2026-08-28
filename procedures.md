@@ -162,12 +162,14 @@ terms used in this document.
 
 * A spreadsheet will be kept on the secure storage platform for all contacts
   with the Ombudsteam. Information in the spreadsheet is mostly for keeping
-  historical statistics regarding reports. It shall minimize anything that
-  could potentially identify the parties to a report, but may contain
+  historical statistics regarding reports, and to detect patterns of
+  behavior. It shall minimize anything that could potentially identify the
+  Subject or Reporter (and the Respondent if the Ombudsteam determines
+  harassment did not occur), but may contain
   information sufficient for an Ombudsperson to recall particulars in case a
   new report comes in regarding the same parties, given that the
-  Ombudsperson’s personal notes are not retained as per the requirements
-  above.
+  Ombudsperson’s personal notes are not retained permanently as per the
+  requirements above.
 
 ## Communications
 
