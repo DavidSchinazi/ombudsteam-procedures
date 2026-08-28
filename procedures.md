@@ -148,10 +148,10 @@ terms used in this document.
 * Rough notes may be taken by an Ombudsperson during the course of an
   investigation in order to help prepare a report for the investigation and
   to review prior to review of any disputes (if any) with an Ombudsteam
-  decision. Such notes may be made on paper or the Ombudsperson’s personal
-  devices, but must only be retained until the completion of the
-  investigation, plus a few weeks in addition to allow time for any dispute
-  resolution. After that time, such notes should be destroyed.
+  decision. Such notes will be kept confidentially by the Ombudsperson and
+  will only be retained for up to a year past the completion of the
+  investigation to allow time for dispute resolution, and in case of legal
+  action. After that time, such notes should be destroyed.
 
 * A secure storage platform for documents that will be held for a longer
   term will be agreed by the Ombudsteam and reviewed with the assistance of
