@@ -51,6 +51,12 @@ terms used in this document.
   will be referred to the administrators of those lists, because they can
   act publicly and more rapidly than the Ombudsteam.
 
+* If the case was a request for advice from the Ombudsteam, the LO will
+  provide advice as best they can, and then close the case. Note that the
+  Ombudsteam cannot provide expert advice outside of its scope; for example,
+  the Ombudsteam cannot provide legal advice and will refer such requests to
+  the IETF LLC.
+
 * If the Subject (or the Reporter in the absence of an individual Subject)
   requests the LO to assist with any sort of informal discussion with the
   Respondent, the LO may do so at their discretion. However, if this
