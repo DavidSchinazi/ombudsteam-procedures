@@ -141,12 +141,12 @@ terms used in this document.
 
 * A note should be made in the Ombudsteam spreadsheet (see Documentation).
 
-* Reports from formal investigations shall be kept in secure storage.
+* Case summaries from formal investigations shall be kept in secure storage.
 
 ## Documentation
 
 * Rough notes may be taken by an Ombudsperson during the course of an
-  investigation in order to help prepare a report for the investigation and
+  investigation in order to help prepare a case summary for the investigation and
   to review prior to review of any disputes (if any) with an Ombudsteam
   decision. Such notes will be kept confidentially by the Ombudsperson and
   will only be retained for up to a year past the completion of the
@@ -156,7 +156,7 @@ terms used in this document.
 * A secure storage platform for documents that will be held for a longer
   term will be provided by the LLC for the Ombudsteam.
 
-* Reports prepared after formal investigations must be kept indefinitely on
+* Case summaries prepared after formal investigations must be kept indefinitely on
   the secure storage platform.
 
 * A spreadsheet will be kept on the secure storage platform for all contacts
@@ -191,11 +191,12 @@ terms used in this document.
 * If an Ombudsperson is recused from any particular case, they will not be
   part of any discussion of that case with the rest of the Ombudsteam.
 
-## External Reporting
+## Statistics
 
-* Reports to the community should be made annually.
+* The Ombudsteam will periodically (between once per plenary meeting and
+  yearly) share statistics on reports with the community.
 
-* Reports on cases handled should include no more information than the
+* This should include no more information than the
   numbers of reports, the number that were handled by informal advice and
   counsel, the number that were handled by formal investigation, and the
   number of appeals. The fastest, slowest, and average handling time for
