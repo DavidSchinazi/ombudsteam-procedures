@@ -176,7 +176,7 @@ terms used in this document.
   done by email.
 
 * Intra-team communications regarding a report of harassment will either be
-  via Signal,via encrypted voice applications or telephone, or in person.
+  via Signal, via encrypted voice applications or telephone, or in person.
 
 * All communications with parties to a report (with the exception of initial
   replies to reports and other purely administrative messages that are sent
