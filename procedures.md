@@ -45,7 +45,7 @@ terms used in this document.
   category, which the Ombudsteam will discuss among themselves when making a
   determination.
 
-* If the LO and Reporter agree that the case is better handled by other
+* If the LO determines that the case is better handled by other
   procedures and does not need further Ombudsteam involvement, the case
   shall be closed.
 
